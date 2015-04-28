@@ -75,7 +75,7 @@
 
 	/**
 	 * Helper function that you can assign to a class property to allow extendClass use
-	 * without having your users import nom. Useful for mixins.
+	 * without having your users import properties-pls. Useful for mixins.
 	 *
 	 * Example:
 	 *
