@@ -84,7 +84,7 @@
 	 * @param  {[type]} Mixin [description]
 	 * @return {[type]}       [description]
 	 */
-	function extender(Target) {
+	function extender(Tgt) {
 		extendClass(Tgt, this);
 	}
 
